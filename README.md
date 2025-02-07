@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://vk.com/id380320460">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
-  <a href="https://t.me/cicwak1">
+  <a href="https://t.me/cicwak5560">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://gitlab.com/cicwak">
